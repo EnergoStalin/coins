@@ -1,0 +1,1 @@
+g++ coins.cpp -I.\\libxls\\include_cpp -L.\\libxls\\lib -L.\\ -lxl -o coins.exe
